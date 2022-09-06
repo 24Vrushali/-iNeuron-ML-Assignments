@@ -1,2 +1,2 @@
 # -iNeuron-ML-Assignments
-New Repo
+All the ML assignments from iNeuron ML course is uploaded here.
