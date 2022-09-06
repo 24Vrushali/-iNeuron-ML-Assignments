@@ -1,2 +1,2 @@
 # -iNeuron-ML-Assignments
-All the ML assignments from iNeuron ML course is uploaded here.
+All the Python and ML assignments from iNeuron ML course is uploaded here.
